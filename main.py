@@ -6,7 +6,7 @@ import telebot
 from telebot import types
 
 # Указываем токен
-bot = telebot.TeleBot('2009931033:AAHHQ6jVdSmDw2NZ7s00n_2iSoSZRj8ZvJM')
+bot = telebot.TeleBot('')
 
 # Заготовка для первого предложения
 first = ["Сегодня — идеальный день для новых начинаний.",
