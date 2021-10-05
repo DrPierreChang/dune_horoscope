@@ -1,5 +1,5 @@
 # Dune Horoscope
-It's horoscope for inhabitants of the planet Arrakis - informally known as Dune
+If you ever find yourself on Arrakis, you will be able to know your path.
 
 <img src="images/dune.jpg" alt="Dune Worm" width="400">
 
