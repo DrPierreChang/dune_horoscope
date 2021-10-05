@@ -40,6 +40,6 @@ the answer goes to the Telegram server, the server sends the answer to the clien
 - Translate into The Fremen language
 
 ## Helpfull materials:
-- Original <a href="https://thecode.media/zodiac/"> guid1</a> and <a href="https://thecode.media/python-bot/">guid2</a>
+- Original <a href="https://thecode.media/zodiac/"> guid 1</a> and <a href="https://thecode.media/python-bot/">guid 2</a>
 - My <a href="notes.md">notes</a>
 
