@@ -1,8 +1,9 @@
 # Dune Horoscope
 It's horoscope for inhabitants of the planet Arrakis - informally known as Dune
 
+<img src="images/dune.jpg" alt="Dune Worm">
 
-#What is it?
+## What is it?
 Telegram bot that generates horoscope.
 
 The Python interpreter is running on the computer,
@@ -22,6 +23,12 @@ the answer goes to the Telegram server, the server sends the answer to the clien
 <img src="images/server.png" alt="connection diagram"/>
 
 
-#How did I did this?
-#What is next?
+## Included steps:
+- We register the bot in Telegram.
+- Install the Python library for working with Telegram
+- We add the library to the program with the horoscope
+  and teach the program to respond to messages in the chat.
+- We write code that will show the buttons for selecting the signs of the zodiac.
+- We make the horoscope appear when the button is pressed
+## What is next?
 
