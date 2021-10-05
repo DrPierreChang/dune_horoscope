@@ -37,5 +37,6 @@ the answer goes to the Telegram server, the server sends the answer to the clien
 - teach the bot new commands
 - send a fresh horoscope every morning
 - to establish continuous work on the web server
+- Translate into The Fremen language
 
 
