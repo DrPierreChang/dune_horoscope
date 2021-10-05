@@ -22,7 +22,7 @@ The request is processed by a Python program,
 the answer goes to the Telegram server, the server sends the answer to the client.
 
 
-<img src="images/server.png" alt="connection diagram" width ="400">
+<img src="images/server.png" alt="connection diagram" width ="600">
 
 
 ## Included steps:
